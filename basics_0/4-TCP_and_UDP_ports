@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-ss -tunlp
+netstat -a -p
